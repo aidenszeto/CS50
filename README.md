@@ -2,8 +2,8 @@
 Project sets for Harvard CS50. Pset1 through pset5 contain my C assignments while pset6 and pset7 contain my Python and SQL code. Please contact me [(Aiden Szeto)](https://www.linkedin.com/in/aidenszeto/) if you have any questions or concerns!
 ## Content
 1. [Pset1](https://github.com/aidenszeto/CS50/tree/master/pset1)
-   - [credit](https://github.com/aidenszeto/CS50/tree/master/pset1/credit)
    - [hello](https://github.com/aidenszeto/CS50/tree/master/pset1/hello)
+   - [credit](https://github.com/aidenszeto/CS50/tree/master/pset1/credit)
    - [mario](https://github.com/aidenszeto/CS50/tree/master/pset1/mario)
 2. [Pset2](https://github.com/aidenszeto/CS50/tree/master/pset2)
    - [readability](https://github.com/aidenszeto/CS50/tree/master/pset2/readability)
@@ -18,7 +18,10 @@ Project sets for Harvard CS50. Pset1 through pset5 contain my C assignments whil
    - [speller](https://github.com/aidenszeto/CS50/tree/master/pset5/speller)
 6. [Pset6](https://github.com/aidenszeto/CS50/tree/master/pset6)
    - [credit](https://github.com/aidenszeto/CS50/tree/master/pset6/credit)
-   - [dna](https://github.com/aidenszeto/CS50/tree/master/pset6/dna)
    - [hello](https://github.com/aidenszeto/CS50/tree/master/pset6/hello)
    - [mario](https://github.com/aidenszeto/CS50/tree/master/pset6/mario)
    - [readability](https://github.com/aidenszeto/CS50/tree/master/pset6/readability)
+   - [dna](https://github.com/aidenszeto/CS50/tree/master/pset6/dna)
+6. [Pset7](https://github.com/aidenszeto/CS50/tree/master/pset7)
+   - [movies](https://github.com/aidenszeto/CS50/tree/master/pset7/movies)
+   - [houses](https://github.com/aidenszeto/CS50/tree/master/pset7/houses)
