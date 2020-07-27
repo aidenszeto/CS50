@@ -1,5 +1,5 @@
 # CS50
-These are my solutions to Harvard University's CS50 course (2020). The first 5 problem sets contain C code while problem sets 6 and 7 contain code in Python and SQL. Feel free to contact me [(Aiden Szeto)](https://www.linkedin.com/in/aidenszeto/) if you have any questions or concerns!
+These are my solutions to the problem sets for Harvard University's CS50 course (2020). The first 5 problem sets contain C code while problem sets 6 and 7 contain code in Python and SQL. Feel free to contact me [(Aiden Szeto)](https://www.linkedin.com/in/aidenszeto/) if you have any questions or concerns!
 ## Table of Contents
 1. [Pset1](https://github.com/aidenszeto/CS50/tree/master/pset1)
    - [hello](https://github.com/aidenszeto/CS50/tree/master/pset1/hello)
