@@ -1,6 +1,6 @@
 # CS50
-Project sets for Harvard CS50. Pset1 through pset5 contain my C assignments while pset6 and pset7 contain my Python and SQL code. Please contact me [(Aiden Szeto)](https://www.linkedin.com/in/aidenszeto/) if you have any questions or concerns!
-## Content
+These are my solutions to Harvard University's [CS50 course](https://www.edx.org/course/cs50s-introduction-to-computer-science). Feel free to contact me [(Aiden Szeto)](https://www.linkedin.com/in/aidenszeto/) if you have any questions!
+## Table of Contents
 1. [Pset1](https://github.com/aidenszeto/CS50/tree/master/pset1)
    - [hello](https://github.com/aidenszeto/CS50/tree/master/pset1/hello)
    - [credit](https://github.com/aidenszeto/CS50/tree/master/pset1/credit)
